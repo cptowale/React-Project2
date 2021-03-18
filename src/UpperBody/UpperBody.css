@@ -1,0 +1,25 @@
+.upper{
+    height: 612px;
+    background :url(upper.jpg);
+    background-size: cover;
+    text-align: center;
+    box-sizing: border-box;
+    color: red;
+}
+.upper-block{
+margin-left: auto;
+margin-right: auto;
+font-size: 30px;
+font-weight: bold;
+padding-top: 250px;
+}
+
+.upper-block p{
+font-size: 20px;
+font-weight:300;
+}
+.upper-block h1{
+text-transform: uppercase;
+color:blue;
+margin:40px 0;
+}
